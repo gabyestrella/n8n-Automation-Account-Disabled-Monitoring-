@@ -1,7 +1,7 @@
 # Meta Ads – Account Disabled Monitoring
 
 <p align="center">
-  <img src="assets/workflow.png" width="800" alt="n8n Workflow — Meta Ads Account Disabled Monitoring" />
+  <img src="workflow.png" width="800" alt="n8n Workflow — Meta Ads Account Disabled Monitoring" />
 </p>
 
 <p align="center">
